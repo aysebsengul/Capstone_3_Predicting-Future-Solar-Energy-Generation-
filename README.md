@@ -35,5 +35,13 @@ This objective of this project is to predict solar energy generation using advan
 │   ├── 2_Data Wrangling and EDA.ipynb
 │   └── 3_Pre-processing Work and Model.ipynb
 ├── Results/
-│   └── Model_metrics.txt    
+│   ├── Model_metrics.txt
+│   ├── Random_Forest_feature_importance.png
+│   ├── Random_Forest_plot.png
+│   ├── Random_Forest_plot_tuning.png
+│   ├── Sarima_plot.png
+│   ├── Sarima_plot_tuning.png
+│   ├── XGBoost_feature_importance.png
+│   ├── XGBoost_plot.png
+│   ├── XGBoost_plot_tuning.png
 └── README.md
