@@ -4,6 +4,7 @@ This repository contains the code and documentation for predicting solar energy 
 
 ## Table of Contents
 - [Project Overview](#project-overview)
+  fnkfnd.nfdk
 - [Directory Structure](#directory-structure)
 - [Data](#data)
 - [Notebooks](#notebooks)
