@@ -1,1 +1,42 @@
+Model Metrics
 
+Overview
+This document provides an overview of the performance metrics for the models used in solar energy generation prediction project.
+
+Target Variable
+The target variable for this project is AC_POWER, which represents the solar power output that we aim to predict.
+
+Features
+
+IRRADIATION
+MODULE_TEMPERATURE
+AMBIENT_TEMPERATURE
+DAILY_YIELD
+TOTAL_YIELD
+
+SARIMA
+
+Description: Seasonal AutoRegressive Integrated Moving Average (SARIMA).
+Parameters: order=(1, 1, 1), seasonal_order=(1, 1, 0, 96)
+Metrics:
+
+RMSE: 0.608
+MAPE: 20.570%
+
+Random Forest
+
+Description: A Random Forest regressor model.
+Parameters: max_features=sqrt, n_estimators=300
+Metrics:
+
+RMSE: 0.165
+MAPE: 4.653%
+
+XGBoost
+
+Description: eXtreme Gradient Boosting (XGBoost) regressor model.
+Parameters: max_depth=5, learning_rate=0.1, n_estimators=300
+Metrics:
+
+RMSE: 0.125
+MAPE: 4.065%
