@@ -66,6 +66,7 @@ The Docs directory contains key project documents that provide comprehensive ins
 The Notebook directory contains Jupyter notebooks used for data wrangling, exploratory data analysis (EDA), preprocessing, and modeling. These notebooks provide step-by-step procedures and visualizations used to clean the data, explore its characteristics, and build the predictive models. The main notebooks included are:
 
   - 2_Data Wrangling and EDA.ipynb: Covers data cleaning and exploratory data analysis.
+
   - 3_Pre-processing Work and Model.ipynb: Covers data preprocessing, feature engineering, model training, and evaluation.
 
 ## Results
@@ -80,10 +81,3 @@ The Results directory contains the model metrics and plots comparing the actual 
   - XGBoost_feature_importance.png: Feature importance plot for the XGBoost model.
   - XGBoost_plot.png: Plot showing XGBoost model predictions vs. actual values before tuning.
   - XGBoost_plot_tuning.png: Plot showing XGBoost model predictions vs. actual values after tuning.
-
-
-## Documentation
-The Docs directory contains the project proposal and the final report. These documents provide a detailed explanation of the project's objectives, methodology, results, and conclusions. The main files included are:
-
-  - 1_Project Proposal: The initial project proposal outlining the objectives and approach.
-  - 4_Capstone_Final_Report_Solar Power Generation: The final report detailing the analysis, results, and conclusions.
