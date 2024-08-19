@@ -46,6 +46,21 @@ This objective of this project is to predict solar energy generation using advan
 ## Data
 The Data directory contains the solar power generation data used in this project. The dataset that is used in this study taken from Solar Power plant Dataset, which contains data from two separate solar power plants located in India, with a particular focus on Plant 2. Solar power generation data gathered at 15 minutes intervals over a 34-day period, providing time-series information about power generation and weather conditions.
 
+## Docs
+The Docs directory contains key project documents that provide comprehensive insights into various aspects of the project. These documents include:
+
+  - 1_Project_Proposal.pdf: This document outlines the initial project proposal, including the project's goals, scope, and methodology. It 
+    provides a foundational understanding of the project's objectives and the approach planned to achieve them.
+
+  - 4_Capstone_Final_Report_Solar_Power_Generation.pdf: This is the final report of the capstone project, offering a detailed account of the 
+    project's execution. It covers the data analysis, methodology, results, and conclusions. It is designed to give a thorough understanding 
+    of the project's outcomes and the effectiveness of the applied models.
+
+  - 5_Capstone_Presentation_Solar_Energy.pdf: This document contains the presentation slides used to communicate the project's findings. 
+
+  - 5_Capstone_Presentation_Solar_Energy.pptx: This PowerPoint version of the presentation provides a slide deck format for presenting the 
+    project findings. 
+
 ## Notebooks
 The Notebook directory contains Jupyter notebooks used for data wrangling, exploratory data analysis (EDA), preprocessing, and modeling. These notebooks provide step-by-step procedures and visualizations used to clean the data, explore its characteristics, and build the predictive models. The main notebooks included are:
 
