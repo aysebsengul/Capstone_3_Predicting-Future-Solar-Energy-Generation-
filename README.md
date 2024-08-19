@@ -25,7 +25,9 @@ This objective of this project is to predict solar energy generation using advan
 │   └── Plant_2_Weather_Sensor_Data.csv
 ├── Docs/
 │   ├── 1_Project Proposal
-│   └── 4_Capstone_Final_Report_Solar Power Generation
+│   ├── 4_Capstone_Final_Report_Solar Power Generation
+│   ├── 5_Capstone_Presentation_Solar Energy.pdf
+│   └── 5_Capstone_Presentation_Solar Energy.pptx
 ├── Notebook/
 │   ├── 2_Data Wrangling and EDA.ipynb
 │   └── 3_Pre-processing Work and Model.ipynb
