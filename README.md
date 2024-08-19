@@ -6,7 +6,7 @@ This repository contains the code and documentation for predicting solar energy 
 - [Project Overview](#project-overview)
 - [Directory Structure](#directory-structure)
 - [Data](#data)
-- [Docs] (#docs)
+- [Docs](#docs)
 - [Notebooks](#notebooks)
 - [Results](#results)
 - [Documentation](#documentation)
