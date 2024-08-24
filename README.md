@@ -1,4 +1,4 @@
-# Solar Energy Generation Prediction
+# Predicting Solar Energy Generation
 
 This repository contains the code and documentation for predicting solar energy generation using various models such as SARIMA, Random Forest, and XGBoost.
 
